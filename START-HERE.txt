@@ -1,0 +1,27 @@
+JU$SO — THE OBLIVIOUS CLUB
+FINAL WEBSITE PACKAGE
+
+FILES
+- index.html: club entrance
+- club.html: Slow Burn video, promo cover, Apple Music and Instagram
+- backyard.html: backyard scene and Street Dice entry
+- game.html + game.js: playable no-money dice game
+- styles.css: responsive dark red/blue visual system
+- assets/: site scenes and the supplied Slow Burn promo cover
+- previews/: latest four-screen layout mockup reference
+
+PUBLISH FROM IPHONE
+1. Download JUSSO.zip and tap it in Files to extract.
+2. Open https://github.com/JussoWrld/Oblivious-Club and select the main branch.
+3. Upload/replace the HTML files, styles.css, game.js, README.md, START-HERE.txt, and the complete assets folder at the repository root.
+4. Commit the changes to main. Do not upload the ZIP as a substitute for its extracted files.
+5. In Settings > Pages, verify Source is Deploy from a branch, branch main, folder /(root).
+6. Wait for the deployment, then check https://jussowrld.github.io/Oblivious-Club/ on iPhone.
+
+IMPORTANT
+This package is prepared for upload; it has NOT been pushed to GitHub and live deployment has NOT been verified from this package. The preview in previews/ is the visual mockup reference, not a screenshot of a running browser.
+
+OFFICIAL LINKS INCLUDED
+Slow Burn video: https://youtu.be/Oi0NiRrwgb0?is=a3_aAoUKKAxbWzE3
+Apple Music: https://music.apple.com/us/album/slow-burn-single/6800876333
+Instagram teaser: https://www.instagram.com/reel/Deo6HN9RfQr/?exln=ZDJucm5kYm9kODdn
